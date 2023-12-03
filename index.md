@@ -4,3 +4,6 @@
 #### This is the `<H4>` tag, fourth
 ##### This is the `<H5>` tag, fifth
 ###### This is the `<H6>` tag, sixth
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
